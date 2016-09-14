@@ -20,7 +20,7 @@ html {
 }
 
 .inner {
-   display:inline-block;
+    display:inline-block;
     border: 1px solid black;
     box-sizing:border-box;
     font-size: 0px;
