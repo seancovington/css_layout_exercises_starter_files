@@ -10,3 +10,31 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+img {
+    height:275px;
+    width:275px;
+}
+p   {
+    display:inline;
+    padding:10px;
+}
+
+.top {
+    margin-bottom:10px;
+}
+
+.bottom {
+    margin-bottom:10px;
+}
+
+.left {
+    padding-top:10px;
+    padding-right:10px;
+    float:left;
+}
+
+.right {
+    padding-top:10px;
+    padding-left:10px;
+    float:right;
+}
